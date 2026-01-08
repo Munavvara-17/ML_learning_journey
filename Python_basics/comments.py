@@ -6,7 +6,9 @@ print("Hello World")
 """
 This is a multi-line comment
 that spans multiple lines.
-It is often used for documentation. ("""
-or ''' single quotes)."""
+It is often used for documentation (triple quotes or single quotes).
+"""
 
 
+'''This is another way to write
+multi-line comments using single quotes.'''
